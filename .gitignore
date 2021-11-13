@@ -1,0 +1,5 @@
+.DS_Store
+
+# Compiled smart contracts
+*.teal
+*.teal.tok
