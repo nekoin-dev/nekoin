@@ -1,5 +1,4 @@
 # Getting Started
-- [Install Docker Desktop](https://docs.docker.com/desktop/mac/install/)
 - [Install PyTeal](https://pyteal.readthedocs.io/en/stable/installation.html)
 - If you use VS Code, there is the [Algorand VS Code Extension](https://marketplace.visualstudio.com/items?itemName=obsidians.vscode-algorand)
 - From the root of this repository, set up Python virtual environment
